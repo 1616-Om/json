@@ -1,0 +1,32 @@
+[
+    {
+        "name": "The Grand Mosque",
+        "description": "The Sultan Qaboos Grand Mosque is the largest mosque in Oman, located in the capital city of Muscat",
+        "imgsrc": "https://www.neverendingvoyage.com/wp-content/uploads/2018/01/main-grand-mosque-muscat.jpg"
+    },
+    {
+        "name": "The Royal Opera House",
+        "description": "Royal Opera House Muscat is the leading arts and culture organization in the Sultanate of Oman. Located in Muscat",
+        "imgsrc": "https://d3iso9mq9tb10q.cloudfront.net/magefan_blog/sightseeing/Royal-Opera-House-Muscat-At-Night-Things-To-Do-Listing-Big-Bus-Tours.jpg"
+    },
+    {
+        "name": "Jabel-Sifah",
+        "description": "Jebel Sifah is designed with wide open spaces and healthy outdoor living in mind. With an array of freehold",
+        "imgsrc": "https://aqarati.com/wp-content/uploads/2017/07/Jebel-Sifah.jpg"
+    },
+    {
+        "name": "Mutrah Souq",
+        "description": "The souq is a huge and extremely busy bazaar with shops that appear to be carved out of a labyrinth of caves. Many of the shops are selling similar products so",
+        "imgsrc": "https://pbs.twimg.com/media/BfS7fiECQAATgFH?format=jpg&name=small"
+    },
+    {
+        "name": "Al-Jalali Castle ",
+        "description": "Al Jalali Fort is located in Old Muscat at an altitude of 45 meters above sea level, overlooking the Sea of ​​Oman",
+        "imgsrc": "http://layalialriyadh.com/wp-content/uploads/2020/08/%D8%A7%D9%84%D8%AC%D9%84%D8%A7%D9%84%D9%8A-%D9%88-%D8%A7%D9%84%D9%85%D9%8A%D8%B1%D8%A7%D9%86%D9%8A-1.jpg"
+    },
+    {
+        "name": "Al Alam Palace ",
+        "description": "The Al Alam Palace is a palace located in Old Muscat, Oman. It was used as a ceremonial palace by Sultan Qaboos bin Said Al Said",
+        "imgsrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hZpwwsfvQDdq_50zxaO6Skt_9pbhnrp1ehZOAb4Po2i3o9-_mLZdjHI1SNVYqA1_5Yc&usqp=CAU"
+    }
+]
