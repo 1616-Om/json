@@ -28,5 +28,113 @@
         "name": "Al Alam Palace ",
         "description": "The Al Alam Palace is a palace located in Old Muscat, Oman. It was used as a ceremonial palace by Sultan Qaboos bin Said Al Said",
         "imgsrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9hZpwwsfvQDdq_50zxaO6Skt_9pbhnrp1ehZOAb4Po2i3o9-_mLZdjHI1SNVYqA1_5Yc&usqp=CAU"
+    },
+    {
+        "name": "Qurum Natural Park ",
+        
+        "imgsrc": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcRoAJVLa9kTGi-FfOiIvwSPob3wuyIOmdWQ8_o53AnGCj36xDkPHmoGn6PmLjZckycrGhICiE_d5DXqdMjaotCCzQ"
+    },
+    {
+        "name": "Riyam Park",
+        
+        "imgsrc": "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcTEppo-EAsHZgFNU3I61dJi6pY_B7p38yYWVlzml9l_OZPqZONq3w2FUPOplMbUjG1SN26le-yPizZjbDjrmMrY-A"
+    },
+    {
+        "name": "Al-Bustan Beach ",
+        
+        "imgsrc": "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcT3f2RVIwnm6k_7RddGbknSolX6mNdmMais3ZmDrme8_YYqoitFphzjqwLwnBnFabBQPk2egn4ycQlwzbyIEVuEtQ"
+    },
+    {
+        "name": "Qurum Natural Reserve ",
+        
+        "imgsrc": "https://lh5.googleusercontent.com/p/AF1QipMHycGa9iZc2nHVaocFwpXSdhaZa-ZVxa0XzfP5=w464-h260-n-k-no-v1"
+    },
+    {
+        "name":"Majlis al Jinn",
+        "imgsrc":"https://lh5.googleusercontent.com/p/AF1QipNxossgxKJ4M8Rwrb5cMvJdxGdYRwfCmyNEp4ec=w408-h272-k-no"
+    },
+    {
+        "name":"Al Ashkharah",
+        "imgsrc":"https://drive.google.com/file/d/1dQJ1OAOrIPVfmTT5Rq9yQWbtJgx58Cre/view?usp=drive_link"
+    },
+    {
+        "name":"aljabal alakhdar",
+        "imgsrc":"https://drive.google.com/file/d/1UXvPPhc1F5NRCiM_E15bPUH2zs8ZdhjS/view?usp=sharing"
+    },
+    {
+        "name":"jabal shams ",
+        "imgsrc":"https://drive.google.com/file/d/1KYonVLMI7Kshfy7-XNN0NeDMNzRWCgwX/view?usp=sharing"
+    },
+    {
+        "name":"alhazm Castle",
+        "imgsrc":"https://drive.google.com/file/d/1jLzPY_FBKJLzE2Hdjg1KTPvZGN8YWjlK/view?usp=sharing"
+    },
+    {
+        "name":"AlSuwjara Village",
+        "imgsrc":"https://drive.google.com/file/d/1mu74XUg0I2tqU-mYx1i7c8a0xYhdCfoV/view?usp=sharing"
+    },
+    {
+        "name":"Nizwa Souq",
+        "imgsrc":"https://drive.google.com/file/d/1QlamXguOGjHN8WYnb0T2ik80dP4Fgo1T/view?usp=sharing"
+    }, {
+        "name":"Sur",
+        "imgsrc":"https://drive.google.com/file/d/1PFLMtAZ6BrwbqVTMg6gPOduowvhwI5xT/view?usp=sharing"
+    },
+    {
+        "name":" village of Bilad Sayt",
+        "imgsrc":"https://drive.google.com/file/d/1_LtfRvUfPdSlm82SQRppY7122kSmd179/view?usp=sharing"
+    },
+    {
+        "name":"Al-Rustaq Castle ",
+        "imgsrc":"https://drive.google.com/file/d/19lxmN7HiASGkxSBr0qXeObx0N1ZI4zZ5/view?usp=sharing"
+    },
+    {
+        "name":"Bahla Castle ",
+        "imgsrc":"https://drive.google.com/file/d/1mUR8BGTGWRU_n1UPzVTe7_9qvY6Y0z4Q/view?usp=sharing"
+    },
+    {
+        "name":"Al Hoota Cave",
+        "imgsrc":"https://drive.google.com/file/d/10dOGfbG8hM-AoeAL1tqpLdHepCTajJi8/view?usp=sharing"
+    },
+    {
+        "name":"Oman Across Ages Museum",
+        "imgsrc":"https://drive.google.com/file/d/1FBJ3deQpYtEfz2Dg1jj0vHWexO86MjKH/view?usp=sharing"
+    },
+    {
+        "name":"Masirah Island",
+        "imgsrc":"https://drive.google.com/file/d/1Ij7Ou766htjXLhXQxi2UbxBpE968Ip3K/view?usp=sharing"
+    },
+    {
+        "name":"Ad Dimaniyat Islands",
+        "imgsrc":"https://omannews.gov.om/images/topics/pictures/topic231413.jpeg"
+    },
+    {
+        "name":"Khuriya Muriya Islands",
+        "imgsrc":"https://pbs.twimg.com/media/DmFY9FzXgAETyqD.jpg"
+    },
+    {
+        "name":"Al Mouj Muscat",
+        "imgsrc":"https://images.app.goo.gl/EDjWQCRSXQz5doY1A"
+    },
+    {
+        "name":"Al Sifah Beach",
+        "imgsrc":"https://images.app.goo.gl/HyAJguZ7c8N2VQ4t9"
+    },
+    {
+        "name":"Ras Al Jinz Turtle Reserve",
+        "imgsrc":"https://scontent.fmct2-3.fna.fbcdn.net/v/t1.6435-9/106462089_3393456780667425_7234578166142391860_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=PiHAGlcpCL0AX_Gsr9N&_nc_oc=AQkymhv00sf_rKw6qtvHAlJAmmDDyUPYU4gxloSKZJTYiZhuxzLD387Tx8SvrkznY20&_nc_ht=scontent.fmct2-3.fna&oh=00_AfDyTQA4mxl11oqxWs7WycjYfs16g0tNWPAjkWlDR2INgQ&oe=6524FED6"
+    },
+    {
+        "name":"Salalah",
+        "imgsrc":"https://4.bp.blogspot.com/-17-OlaPK4NA/XJ6Vszh5r1I/AAAAAAAADFA/t9-7SowmCyUA-kSGxNyWt8zZaAhaLVq8ACLcBGAs/w640-h418/salalah.jpg"
+    },
+    {
+        "name":"Wahiba Sands Desert",
+        "imgsrc":"https://3.bp.blogspot.com/-jAVOm9O7eNg/XJ6TmtfYqDI/AAAAAAAADEk/FiAF0U1M264Q5b5ACLwk_FQLfBiXeFUggCLcBGAs/w640-h453/wahiba-sands.jpg"
+    },
+    {
+        "name":"Musandam",
+        "imgsrc":"https://4.bp.blogspot.com/-JMJgCy-pow8/XJ6UK3BGayI/AAAAAAAADEs/KCFeDX6-2w0zeWTIJUrplR47lJtQC_BqwCLcBGAs/w640-h424/musandam-coast.jpg"
     }
+
 ]
